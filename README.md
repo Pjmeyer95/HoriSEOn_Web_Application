@@ -18,4 +18,4 @@ SO THAT our own site is optimized for search engines.
 ! [image](/Users/patrickmeyer/bootcamp/Homework-Assignments/Homework-1/assets/images/01-html-css-git-homework-demo.png)
 # Application
 * the following link will take you directly to the web application
-* link: file:///Users/patrickmeyer/bootcamp/Homework-Assignments/Homework-1/index.html
+* link: http://127.0.0.1:5500/index.html#search-engine-optimization
